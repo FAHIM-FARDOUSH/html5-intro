@@ -1,0 +1,32 @@
+body{
+    max-width: 1170px;
+    background-color: khaki;
+    margin: 0 auto;
+}
+ 
+ 
+.hero-container{
+    padding: 24px;
+display: flex;
+gap: 5px;
+/* align-items: center; */
+background-color: lightgreen;
+font-size: 1.25em;
+}
+.hero-container button{
+    background-color: skyblue;
+    padding: 20px 30px;
+    font-size: 1.34em;
+    cursor: pointer;
+}
+.hero-container img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.hero-container button:hover{
+    background-color: darksalmon;
+}
+a{
+    text-decoration: none;
+}

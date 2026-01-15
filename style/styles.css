@@ -4,6 +4,7 @@ nav li a{
     list-style: none;
     margin: 10px;
     font-size: x-large;
+
 } 
 nav li :hover{ background-color: chartreuse;}
 
@@ -12,4 +13,7 @@ footer{ text-align: center;
         background-color: black;
     color: beige;
 
+}
+nav{
+    background-color: lightsteelblue;
 }
